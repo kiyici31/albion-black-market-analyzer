@@ -75,6 +75,6 @@ Geliştirici **piyasa zararlarından sorumlu değildir**.
 
 ---
 
-## 👨‍💻 Developer kiyici31
+## 👨‍💻 Developer
 
 Developed by **kiyici31**
